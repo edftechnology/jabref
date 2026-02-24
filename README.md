@@ -102,7 +102,7 @@ Para configurar/instalar/usar o `JabRef` no `Linux Ubuntu` sem precisar digitar 
 2. Digite o seguinte comando e pressione `Enter`:
 
     ```bash
-    sudo apt clean                                                            
+    sudo apt clean
     sudo apt autoclean
     sudo apt autoremove -y
     sudo apt update
