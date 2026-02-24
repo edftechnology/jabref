@@ -1,0 +1,3 @@
+[submodule "subs/submodules/shell_scripts"]
+	path = subs/submodules/shell_scripts
+	url = git@github.com:edftechnology/shell_scripts.git
