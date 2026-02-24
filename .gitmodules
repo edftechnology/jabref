@@ -1,3 +1,24 @@
 [submodule "subs/submodules/shell_scripts"]
 	path = subs/submodules/shell_scripts
 	url = git@github.com:edftechnology/shell_scripts.git
+[submodule "subs/submodules/agents"]
+	path = subs/submodules/agents
+	url = git@github.com:edftechnology/agents.git
+[submodule "subs/submodules/git_scripts"]
+	path = subs/submodules/git_scripts
+	url = git@github.com:edftechnology/git_scripts.git
+[submodule "subs/submodules/python_scripts"]
+	path = subs/submodules/python_scripts
+	url = git@github.com:edftechnology/python_scripts.git
+[submodule "subs/submodules/markdown_scripts"]
+	path = subs/submodules/markdown_scripts
+	url = git@github.com:edftechnology/markdown_scripts.git
+[submodule "subs/submodules/txt_scripts"]
+	path = subs/submodules/txt_scripts
+	url = git@github.com:edftechnology/txt_scripts.git
+[submodule ".github/workflows"]
+	path = .github/workflows
+	url = git@github.com:edftechnology/workflows.git
+[submodule ".vscode"]
+	path = .vscode
+	url = git@github.com:edftechnology/.vscode.git
